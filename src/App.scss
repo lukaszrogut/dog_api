@@ -24,14 +24,13 @@ body {
   transform: translate(-50%, -50%);
   background-color: black;
   padding: 25px;
-  max-width: 90vw;
+  width: 60vw;
   max-height: 90vh;
   border-radius: 5px;
 
   img {
     display: block;
     width: 100%;
-    max-width: 300px;
     margin-bottom: 25px;
     border-radius: 5px;
   }
